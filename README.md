@@ -1,2 +1,4 @@
 # ProjectIdeas
-A compilation of project ideas 
+
+- [ ] Jypiter Notebook fork with Git Integration (Gypiter)
+- [ ] Jyptier Notebook remake for C / C++
